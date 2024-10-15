@@ -1,5 +1,5 @@
 import React from "react";
-import MovieFetcher from "./components/movieFetcher.jsx";
+import MovieFetcher from "./components/MovieFetcher.jsx";
 
 const App = () => {
   return (
@@ -9,4 +9,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default App; 
